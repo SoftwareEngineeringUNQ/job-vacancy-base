@@ -21,10 +21,6 @@ test/tmp
 test/version_tmp
 tmp
 reports
-:memory
 *.sublime-*
-
-# YARD artifacts
 .yardoc
 _yardoc
-doc/
